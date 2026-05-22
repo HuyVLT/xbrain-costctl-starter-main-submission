@@ -277,11 +277,11 @@ Add a `REFLECTIONS.md` to your repo. Sample prompts:
 - [x] Implement ≥ 2 of (`cost`, `terminate`, `tag`) — `terminate` tests green if you pick it
 - [x] (optional stretch) `clean` → `pytest tests/test_clean.py` green; or `idle` / `migrate-gp3`
 - [x] `make test` final score reported in README (e.g. "25/25 passing")
-- [ ] Replace `sample_output/*_example.txt` with real outputs from your account
+- [x] Replace `sample_output/*_example.txt` with real outputs from your account
 - [x] `REFLECTIONS.md` with 2+ answers
 - [x] At least 3 meaningful commits (init → first command working → final polish)
 - [x] Replace `g15` placeholders throughout README with your real group number
-- [ ] Add Team section with member names
+- [x] Add Team section with member names
 - [x] Tag: `git tag w6-sidechallenge-v1 && git push --tags`
 - [x] Post link in Slack `#w6-sidechallenge` thread:
       `G15 — https://github.com/HuyVLT/xbrain-costctl-starter-main-submission.git — implemented: list, cost, terminate, tag, clean (25/25 tests passing)`
@@ -299,11 +299,8 @@ MIT — see `LICENSE`.
 
 ## Team
 
-> Replace before submission:
-
-- <name 1>
-- <name 2>
-- <name 3>
+- HuyVLT
+- pvkhanhtruong1810@gmail.com
 
 ---
 
